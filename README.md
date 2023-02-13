@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tainagotgithub
-- 👀 I’m interested in front-end development, DevOps and UX Design
-- 🌱 I’m currently learning about DevOps and SRE
+- 👀 I’m interested in front-end development and DevOps 
 - 📫 How to reach me: you can e-mail me on bedtaina@gmail.com
 
 <!---
