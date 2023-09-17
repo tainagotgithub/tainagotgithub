@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tainagotgithub
-- 👀 I’m interested in front-end development and DevOps 
+- 👀 I’m interested in development and DevOps 
 - 📫 How to reach me: you can e-mail me on bedtaina@gmail.com
 
 <!---
